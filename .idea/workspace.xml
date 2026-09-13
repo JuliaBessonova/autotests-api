@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="001ef7a1-79cf-4972-a6be-80805b27733a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tcp_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcp_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcp_users_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcp_users_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpx_authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpx_get_user_me.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_service.proto" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/course_service.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_service_pb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/course_service_pb2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_service_pb2_grpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/course_service_pb2_grpc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/grpc_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_course_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/grpc_course_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_course_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/grpc_course_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/grpc_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/tcp/tcp_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/tcp/tcp_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp_users_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/tcp/tcp_users_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp_users_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/tcp/tcp_users_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_service.proto" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/user_service.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_service_pb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/user_service_pb2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_service_pb2_grpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/grpc/user_service_pb2_grpc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/websocket_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/websocket_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket_users_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/websocket_users_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket_users_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/websocket_users_server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +59,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/websocket" />
+      <recent name="$PROJECT_DIR$/tcp" />
+      <recent name="$PROJECT_DIR$/grpc" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="autotests-api" />
